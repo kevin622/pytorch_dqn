@@ -159,7 +159,7 @@ So I followed what is on https://github.com/openai/mujoco-py#install-mujoco
 
 
 
-However even after installing mujoco, following the code below which is from the [official github](https://github.com/openai/mujoco-py#install-mujoco) still cause error, but I'll get to that later. (importing is causing error)
+However even after installing mujoco, following the code below which is from the [official github](https://github.com/openai/mujoco-py#install-mujoco) still cause error, but I'll get to that later. (`importing` is causing error)
 
 ```python
 import mujoco_py
@@ -185,3 +185,7 @@ print(sim.data.qpos)
 
 
 Anyway, I followed the DQN tutorial and recorded it in `pytorch_dqn.ipynb`.
+
+## Question
+
+In this code, the graph drawn by `matplotlib` only appears for 1/10 second. Is this due to my machine..?
