@@ -138,11 +138,11 @@ So I followed what is on https://github.com/openai/mujoco-py#install-mujoco
 
 1. Download the MuJoCo version 2.1 binaries for OSX.
 
-![스크린샷 2022-01-05 오전 11.23.10](README.assets/스크린샷 2022-01-05 오전 11.23.10.png)
+![스크린샷 2022-01-05 오전 11.23.10](README.assets/mujoco_bin.png)
 
 2. Extract it.
 
-![스크린샷 2022-01-05 오전 11.23.58](README.assets/스크린샷 2022-01-05 오전 11.23.58.png)
+![스크린샷 2022-01-05 오전 11.23.58](README.assets/mujoco210_folder.png)
 
 3. Move the extracted folder to `~/.mujoco/mujoco210`
 
